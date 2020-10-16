@@ -1,5 +1,5 @@
 // get our document ready for jQuery.
-$(documnet).ready(function() {
+$(document).ready(function() {
 // Declare our time and date variables using moment.js
 var todaysDate = moment().format('dddd MMM Do YYYY');
 var timeNow = moment().format('hh:mm a');
